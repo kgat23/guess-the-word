@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='game.css'>
+    <!-- <script src='main.js'></script> -->
+</head>
+<body>
+    <div class="app">
+        <div class="lives-section">
+            <img class="heart" src="images/hint_heart.png">
+            <h2 id="lives"></h2>
+        </div>
+        <h3 id="question"></h3>
+        <div class="answer">
+            <input type="text" id="left-part">
+            <h4 id="given-part"></h4>
+            <input type="text" id="right-part">
+            <button class="submit" onclick="checkAnswer()">SUBMIT</button>
+        </div>
+        <h3 id="report"></h3>
+        <h3 id="hint-text"></h3>
+        <h2 class="centralise" id="score"></h2>
+        <h2 class="centralise" id="level"></h2>
+        <div class="ending">
+            <div class="hint">
+                <button id="hint-button" onclick="giveHint()">Use hint</button>
+                <h3 id="hints-remaining"></h3>
+            </div>
+            <button id="next" onclick="nextLevel()">Next</button>
+            <button class="menu" id="game-menu"><a href="menu.html">Menu</a></button>
+        </div>
+    </div>
+    <div class="congratulations">
+        <h2 id="c1">Congratulations!!!!</h2>
+        <h3 id="c2">You have completed the game</h3>
+        <h3 id="congratulations-score"></h3>
+        <button class="menu"><a href="menu.html">Play again</a></button>
+        <button class="exit">Exit</button>
+    </div>
+    <div class="gameover">
+        <h2 id="c1">Game over!!!!</h2>
+        <h3 id="gameover-score"></h3>
+        <button class="menu"><a href="menu.html">Play again</a></button>
+        <button class="exit">Exit</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
