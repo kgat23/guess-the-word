@@ -117,41 +117,41 @@ const questions3 = [
 
 const leftAnswers3 = [
     "C",
-    "E",
-    "P",
-    "M",
-    "I",
-    "R",
-    "I",
-    "P",
-    "D",
-    "E"
+    "ELA",
+    "PER",
+    "MIT",
+    "INQ",
+    "RES",
+    "IND",
+    "PRA",
+    "DIS",
+    "EXE"
 ];
 
 const middleAnswers3 = [
     "ON",
-    "LA",
-    "ER",
-    "IT",
-    "NQ",
-    "ES",
-    "DI",
-    "RA",
-    "SE",
-    "EX"
+    "BOR",
+    "PL",
+    "IG",
+    "UIS",
+    "OLU",
+    "IFFE",
+    "GMAT",
+    "SEMI",
+    "MPL"
 ];
 
 const rightAnswers3 = [
     "CUR",
-    "TE",
+    "ATE",
     "EX",
+    "ATE",
+    "ITIVE",
     "TE",
-    "RE",
-    "VE",
-    "FF",
+    "RENT",
     "IC",
-    "TE",
-    "FY"
+    "NATE",
+    "IFY"
 ];
 const questions4 = [
     "Fluent or persuasive in speaking or writing",
@@ -171,9 +171,9 @@ const leftAnswers4 = [
     "S",
     "A",
     "P",
-    "T",
-    "A",
-    "R",
+    "TEN",
+    "ALT",
+    "RE",
     "P",
     "E",
     "V"
@@ -183,26 +183,26 @@ const middleAnswers4 = [
     "LO",
     "ER",
     "CU",
-    "RO",
-    "NA",
-    "LT",
-    "SI",
-    "RI",
+    "ROLI",
+    "AC",
+    "RUIS",
+    "SILI",
+    "RIST",
     "NI",
-    "ER"
+    "ERAC"
 ];
 
 const rightAnswers4 = [
     "QUENT",
-    "NE",
+    "ENE",
     "MEN",
-    "IC",
+    "FIC",
     "IOUS",
-    "IC",
-    "NT",
-    "NE",
-    "MA",
-    "Y"
+    "TIC",
+    "ENT",
+    "INE",
+    "GMA",
+    "ITY"
 ];
 
 const questions5 = [
@@ -221,40 +221,40 @@ const questions5 = [
 const leftAnswers5 = [
     "E",
     "U",
-    "C",
-    "Q",
+    "CON",
+    "QUE",
     "S",
-    "I",
+    "INE",
     "V",
-    "M",
-    "R",
-    "O"
+    "MELA",
+    "RES",
+    "OSTE"
 ];
 
 const middleAnswers5 = [
     "PI",
-    "BI",
-    "NU",
-    "ER",
+    "BIQUI",
+    "NUN",
+    "RUL",
     "AG",
-    "FF",
-    "IC",
-    "EL",
-    "SP",
-    "ST"
+    "FFA",
+    "ICAR",
+    "NCH",
+    "PLEN",
+    "NTAT"
 ];
 
 const rightAnswers5 = [
     "PHANY",
+    "TOUS",
+    "DRUM",
     "OUS",
-    "M",
-    "S",
-    "IOUS",
+    "ACIOUS",
     "BLE",
-    "US",
-    "LY",
-    "NT",
-    "US"
+    "IOUS",
+    "OLY",
+    "DENT",
+    "IOUS"
 ];
 
 
